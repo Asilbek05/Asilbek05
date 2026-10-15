@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+  <title id="title">Talimly — CRM and LMS for education centers</title>
+  <desc id="desc">Current build. Connecting academics, finance, and parent communication. Go, MySQL, Redis, Docker.</desc>
+  <rect width="1280" height="330" rx="24" fill="#10151a"/>
+  <rect x="0" y="0" width="9" height="330" rx="4" fill="#d9fb73"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="44" y="52" fill="#d9fb73" font-size="13" letter-spacing="3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">01 / CURRENT BUILD</text>
+    <text x="40" y="140" fill="#f1f3eb" font-size="78" font-weight="800" letter-spacing="-3">Talimly<tspan fill="#d9fb73">.</tspan></text>
+    <text x="44" y="182" fill="#c1c9c3" font-size="22">Less scattered work. More connected education.</text>
+    <text x="44" y="215" fill="#88988d" font-size="17">CRM &amp; LMS for education centers</text>
+    <text x="44" y="286" fill="#d9fb73" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">Go / MySQL / Redis / Docker</text>
+  </g>
+  <g fill="none" stroke="#46584c" stroke-width="2"><path d="M746 165H828M828 78V252M828 78H890M828 165H890M828 252H890"/><circle cx="746" cy="165" r="7" fill="#d9fb73" stroke="none"/></g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">
+    <rect x="890" y="48" width="340" height="60" rx="10" fill="#1b251e" stroke="#344739"/><text x="914" y="85" fill="#d9fb73">Academics</text><text x="1206" y="85" text-anchor="end" fill="#7b9381">01</text>
+    <rect x="890" y="135" width="340" height="60" rx="10" fill="#1b251e" stroke="#344739"/><text x="914" y="172" fill="#d9fb73">Finance</text><text x="1206" y="172" text-anchor="end" fill="#7b9381">02</text>
+    <rect x="890" y="222" width="340" height="60" rx="10" fill="#1b251e" stroke="#344739"/><text x="914" y="259" fill="#d9fb73">Parent communication</text><text x="1206" y="259" text-anchor="end" fill="#7b9381">03</text>
+  </g>
+</svg>
