@@ -1,97 +1,123 @@
 <div align="center">
 
-# Asilbek Baxtiyorov
+# Hey, I'm Asilbek 👋
 
-### Building the systems behind the screen.
+### Backend developer. Curious builder. Detail-oriented thinker.
 
-Backend developer working with **Go**, designing APIs, and building **Talimly**.
+**PHP & Yii2** are my home ground.  
+**Go** is also part of my toolbox.
+
+I build the logic behind the interface — APIs, databases, integrations, and business workflows.
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Asilbek05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asilbek05)
-[![Telegram](https://img.shields.io/badge/Telegram-b__asilbek-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/b_asilbek)
-[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baxtiyorov.asilbek2805@gmail.com)
+[![Telegram](https://img.shields.io/badge/Let's_connect-7C3AED?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/b_asilbek)
+[![Email](https://img.shields.io/badge/Send_an_email-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baxtiyorov.asilbek2805@gmail.com)
 
 </div>
 
----
+<br />
 
-```text
-asilbek/
-├── focus       Backend development
-├── building    Talimly
-├── working     Go · MySQL · Redis · Docker
-└── mindset     Understand the problem. Build with care. Keep improving.
+## A little context
+
+```php
+<?php
+
+$asilbek = [
+    'name'    => 'Asilbek Baxtiyorov',
+    'focus'   => 'Backend development',
+    'primary' => ['PHP', 'Yii2'],
+    'also'    => ['Go', 'MySQL', 'Redis', 'Docker'],
+    'project' => 'Talimly',
+];
 ```
 
-## Behind the endpoints
+My strongest familiarity is with **PHP and Yii2**. I enjoy translating
+business requirements into clear application logic and working with the
+data, permissions, and integrations that make a product useful.
 
-I build the parts of an application that connect everything:
-business rules, databases, APIs, background jobs, and integrations.
+I'm also building **[Talimly](https://github.com/Asilbek05/talimly)**,
+working with Go and the backend workflows of an education platform.
 
-My main project is **Talimly**, where education workflows meet backend engineering.
-Working on it means thinking beyond individual endpoints:
-how data stays isolated, how permissions work, and what happens when a job fails.
+<br />
 
-I care about code that is easy to follow and systems whose behavior is easy to explain.
-
-## The toolbox
+## My working kit
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Yii2-40B3D8?style=for-the-badge&logo=yii&logoColor=white" alt="Yii2" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-- **APIs:** REST, Gin, OpenAPI, generated API contracts
-- **Data:** MySQL, sqlc, schema migrations, Redis
-- **Background work:** Asynq, queues, scheduled jobs
-- **Integrations:** Telegram bots, S3-compatible file storage
-- **Delivery & verification:** Docker, GitHub Actions, Go tests, Testcontainers
+**Application logic** → PHP · Yii2 · Go · Gin  
+**Data & background work** → MySQL · sqlc · Redis · Asynq  
+**Contracts & integrations** → REST APIs · OpenAPI · Telegram bots  
+**Development & delivery** → Git · Docker · GitHub Actions
 
-## In the workshop → Talimly
+<br />
 
-### [Talimly — CRM & LMS for education centers](https://github.com/Asilbek05/talimly)
+## Currently building
 
-Education centers manage students, lessons, payments, and parent communication.
-Talimly brings those workflows into one connected platform.
+### ↗ [Talimly](https://github.com/Asilbek05/talimly)
 
-The backend brings together:
+**A connected CRM & LMS for education centers.**
 
-- **Multiple education centers** with tenant isolation and access control.
-- **Academic workflows** for groups, attendance, homework, and exams.
-- **Financial workflows** for tuition, invoices, payments, and balances.
-- **Parent communication** through Telegram and a dedicated Mini App.
-- **Background processing** for notifications and scheduled work.
+An education center has many moving parts: students, groups, lessons,
+attendance, exams, tuition, and parent communication.
+Talimly brings those workflows together.
 
-Built around a **Go modular monolith**, with **MySQL**, **Redis**, and an **OpenAPI contract** shared across clients.
+The backend work spans:
 
-[Explore the repository →](https://github.com/Asilbek05/talimly)
+- **Tenant isolation and permissions** for multiple education centers.
+- **Academic workflows** covering attendance, homework, and assessments.
+- **Financial workflows** for invoices, payments, and balances.
+- **Telegram integrations** connecting parents with the learning process.
+- **Background jobs** handling notifications and scheduled tasks.
 
-## Engineering details I care about
+**Backend:** Go · Gin · MySQL · Redis · Asynq  
+**Architecture:** Modular monolith · OpenAPI contracts · Docker
 
-**Clear boundaries.** Business rules should have a clear home.
+[Take a look inside →](https://github.com/Asilbek05/talimly)
 
-**Explicit contracts.** An API should make expectations easy to understand.
+<br />
 
-**Data integrity.** Permissions, validation, and transactions deserve careful attention.
+## What shapes my code
 
-**Failure paths.** Timeouts, retries, and duplicate requests are part of the design.
+🧩 **Understand the workflow**  
+Start with the actual problem and the people who need it solved.
 
-**Useful tests.** Verify the behavior that matters, especially where systems meet.
+📖 **Make the intent readable**  
+Clear names, focused functions, and boundaries that make sense.
+
+🔐 **Respect the data**  
+Think carefully about validation, access, and consistency.
+
+🔎 **Follow the failure path**  
+Consider what happens when a request fails, a job retries, or data is missing.
+
+🌱 **Keep learning through building**  
+Use real problems to ask better questions and improve the next implementation.
 
 ---
 
 <div align="center">
 
-### Have something worth building?
+**Good conversations can become good projects.**
 
-[Message me on Telegram](https://t.me/b_asilbek) · [Send me an email](mailto:baxtiyorov.asilbek2805@gmail.com)
+[Telegram · @b_asilbek](https://t.me/b_asilbek)  
+[baxtiyorov.asilbek2805@gmail.com](mailto:baxtiyorov.asilbek2805@gmail.com)
 
-<sub>From an idea to an endpoint. From an endpoint to a working product.</sub>
+<br />
+
+<sub>Asilbek Baxtiyorov · Building one thoughtful solution at a time.</sub>
 
 </div>
